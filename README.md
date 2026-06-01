@@ -13,7 +13,7 @@ A modern, modular, and responsive movie exploration application built with Vanil
 📱 Responsive Design: Adaptable layout optimized pixel-by-pixel for mobile devices, tablets, and desktop displays.
 
 Project Structure The project is organized under the principles of Separation of Responsibilities (SoC) and Feature-Driven Design:
-
+ ```bash
 movie-spa/
 ├── public/                   # Public static assets (favicons, icons)
 ├── src/
