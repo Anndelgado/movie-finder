@@ -1,7 +1,7 @@
-Movie Finder🎬
+# Movie Finder🎬
 A modern, modular, and responsive movie exploration application built with Vanilla JavaScript (ES6), Vite, and Tailwind CSS. It features an advanced Feature-Driven Architecture and native support for custom theme switching with state persistence.
 
-Key Features
+# Key Features
 ⚡ Modular Architecture: Structured by independent feature modules that facilitate code scaling, readability, and seamless maintenance.
 
 🌓 Light and Dark Mode: Native support utilizing Tailwind CSS dark variants and root document classes, with automatic persistence via localStorage.
